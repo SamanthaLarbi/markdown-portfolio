@@ -1,0 +1,3 @@
+-#Skills
+-**hard working**
+-_A *creative* individual_

@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# my fav food
+- fufu
+- rice
+- chocolate cake
